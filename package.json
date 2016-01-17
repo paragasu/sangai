@@ -1,0 +1,19 @@
+{
+  "title": "Sangai passphrase password generator",
+  "name": "SangaiFox",
+  "version": "0.0.1",
+  "description": "Generate hash password using url and passphrase",
+  "main": "index.js",
+  "author": "Jeffry Lunggot",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "Sangai",
+	"password manager",
+	"password generator",
+	"passphrase password"
+  ]
+}
